@@ -21,5 +21,7 @@ Node.js的学习之旅
 * [16. Node.js SocketIO](./)
 ## 注意
 内容持续更新中，暂时制定了当前的目录结构，后期可能会发生变化。
+## 声明
+**如需转载，标明出处 [QC-L/learning-node.js](https://github.com/QC-L/learning-node.js)**
 ## License
 MIT Copyright (c) 2017 QC-L
