@@ -31,3 +31,12 @@ var options = {
     colors: true
 }
 console.dir(pro, options)
+// time/timeEnd
+console.time('time')
+for (var i = 0; i < 1000000; i++) {  }
+console.timeEnd('time')
+// trace
+console.trace('当前栈信息')
+// assert
+console.assert(false, '此处有异常')
+console.log('这个log不会执行')
