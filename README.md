@@ -16,7 +16,7 @@ Node.js的学习之旅
 * [11. 模板引擎](./docs/11.模板引擎.md)
 * [12. Node.js MySQL](./docs/12.Node.js-MySQL.md)
 * [13.  Node.js MongoDB](./docs/13.Node.js-MongoDB.md)
-* [14. Node.js 实现简单爬虫](./docs/14.Node.js实现简单爬虫.md)
+* [14. Node.js 实现静态爬虫](./docs/14.Node.js实现静态爬虫.md)
 * [15. Node.js Babel](./docs/15.Node.js-Babel.md)
 * [16. Node.js SocketIO](./docs/16.Node-SocketIO.md)
 ## 注意
