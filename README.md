@@ -19,6 +19,7 @@ Node.js的学习之旅
 * [14. Node.js 实现静态爬虫](./docs/14.Node.js实现静态爬虫.md)
 * [15. Node.js Babel](./docs/15.Node.js-Babel.md)
 * [16. Node.js SocketIO](./docs/16.Node-SocketIO.md)
+* 17. npm 使用相关
 ## 注意
 内容持续更新中，暂时制定了当前的目录结构，后期可能会发生变化。
 ## 声明
