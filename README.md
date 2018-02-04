@@ -21,6 +21,8 @@ Node.js的学习之旅
 * [16. Node.js Babel](./docs/16.Node.js-Babel.md)
 * [17. Node.js SocketIO](./docs/17.Node-SocketIO.md)
 * [18. npm 使用相关](./docs/18.npm使用相关.md)
+* 19. Node.js Stream
+* 20. pm2 相关
 
 ## 注意
 内容持续更新中，暂时制定了当前的目录结构，后期可能会发生变化。
